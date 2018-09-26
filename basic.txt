@@ -5,3 +5,5 @@ With this I plan to test the test manager as well. Ohter topics intended to be c
 
 Work Items
 CI/CD implementation
+
+This is the addition to the DevOps bracn and its changes.
