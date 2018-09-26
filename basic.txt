@@ -1,4 +1,7 @@
 This is just a sample to check , pipelining funcitonality in the Azure DevOps
 
 
-With this I plan to test the test manager as well
+With this I plan to test the test manager as well. Ohter topics intended to be covered:
+
+Work Items
+CI/CD implementation
