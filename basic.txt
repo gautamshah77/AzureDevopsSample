@@ -10,3 +10,5 @@ Release and staging workflows
 This is the addition to the DevOps bracn and its changes.
 
 The TestManager is required to start using the Testing portion in the Azure DevOps
+
+Definitely think about the bulk upload in work items
