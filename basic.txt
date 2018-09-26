@@ -7,3 +7,5 @@ Work Items
 CI/CD implementation
 
 This is the addition to the DevOps bracn and its changes.
+
+The TestManager is required to start using the Testing portion in the Azure DevOps
